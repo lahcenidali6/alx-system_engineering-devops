@@ -1,2 +1,2 @@
 #!/bin/bash
-gree -c "bin" /etc/passwd
+gree "bin" /etc/passwd | wc -l
